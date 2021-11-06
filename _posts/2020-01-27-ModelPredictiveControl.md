@@ -9,6 +9,9 @@ background: '/img/posts/02.jpg'
 # Model-Predictive-Control
 Udacity Self-Driving NanoDegree Term 2 Project on Model Predictive Control
 
+## Link
+[https://github.com/radhakri119/Model-Predictive-Control]( https://github.com/radhakri119/Model-Predictive-Control )
+
 ## Project: Model-Predictive-Control [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 Overview
