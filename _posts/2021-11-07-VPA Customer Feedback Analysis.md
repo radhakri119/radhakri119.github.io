@@ -13,7 +13,7 @@ background: '/img/posts/02.jpg'
 
 ## Introduction
 
-We want to analyze customer feedback for Alexa, Google Assistant and Siri to extract themes from customer feedback.
+We want to analyze customer feedback for Alexa, Google Assistant and Siri to extract themes from customer feedback. Please note: This is work in progress.
 
 ## Data
 
