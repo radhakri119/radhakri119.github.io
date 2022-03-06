@@ -23,4 +23,4 @@ We use a tool called [Octoparse](https://www.octoparse.com/) to extract reviews 
 
 We analyzed the reviews with VPA mentions using a RoBERTa pre-trained Language Model. We visualized the embeddings using a 2D projection algorithm like UMAP, extracted themes manually, and used these labeled themes to fine-tune the RoBERTA model. We iterated this procedure multiple times to extract a good set of themes for each VPA. We then compared the customer feedback for all VPAs to understand the strengths and weaknesses of each VPA.
 
-![UMAP Projection](/img/posts/UMap_Projection.png "UMAP Projection")
+![UMAP Projection](/img/posts/UMap_Projection1.png "UMAP Projection")
